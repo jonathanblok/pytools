@@ -1,0 +1,1 @@
+echo $1 | translate-bin -s google -t $2 -t $3
